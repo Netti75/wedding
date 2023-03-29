@@ -153,7 +153,7 @@ a:hover {
 .progh {
   font-family: 'Great Vibes', cursive;
   margin-top: 1rem; /* To account for the unequal margins compared to the previous section. */
-  text-align: center;
+  
 }
 
 .program p {
@@ -191,6 +191,7 @@ a:hover {
 }
 .quan h3 {
   margin-top: 1rem;
+  color: #eda087;
 }
 .quan p {
   font-family: 'Muli', sans-serif;
